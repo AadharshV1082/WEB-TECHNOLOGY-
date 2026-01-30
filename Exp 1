@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Header Body Footer</title>
+</head>
+<body>
+  <header>
+    <h1>Website Header</h1>
+    <nav>Home | About | Contact</nav>
+  </header>
+
+  <p>This is the body content.</p>
+
+  <footer>
+    <p>©️ 2026 Web Tech</p>
+  </footer>
+</body>
+</html>
