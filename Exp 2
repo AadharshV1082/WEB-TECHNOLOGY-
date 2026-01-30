@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script>
+let n = parseInt(prompt("Enter number"));
+if (n % 2 === 0) n++;
+document.write("Nearest Odd Number: " + n);
+</script>
+</body>
+</html>
